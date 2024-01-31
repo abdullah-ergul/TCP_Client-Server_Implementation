@@ -1,0 +1,7 @@
+login > 4	abdullah	0	1
+login > 5	eray	0	1
+msg   > abdullah:merhaba1 -> eray
+login > 4	berhan	0	1
+login > 5	semih	0	1
+msg   > berhan:merhaba semih1 -> semih
+msg   > semih:merhaba berhan, nasilsin1 -> berhan
